@@ -1,6 +1,3 @@
-# Web-Scraping-Data-Cleaning-Viz
-Web Scraping, Data Cleaning and Viz
-
 # Python Project: Football Manager 2020
 ### 1. Use BeautifulSoup to find all players with value above £20M or wage above £75k per week
 ### 2. Data Cleaning 
